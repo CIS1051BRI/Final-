@@ -2,11 +2,11 @@
 
 #### Your name
 
-TODO
+Brianna Timmons
 
 #### Your section leader's name
 
-TODO
+Brianna Timmons
 
 #### Project title
 
@@ -18,12 +18,11 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+so far ive done all the graphics and have the layout for my entire project, so the base is done. I just have to figure out the logic to make the buttons compute and the progress bar work in tKinter 
 
 #### What have you not done for your project yet?
 
-TODO
-
+done the progress bar and the calculations for the buttons 
 #### What problems, if any, have you encountered?
 
-TODO
+figuring out the logic and how to translate it from regular python knowledge to the TKinter GUI

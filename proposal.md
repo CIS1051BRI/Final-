@@ -9,7 +9,7 @@ FitRing or RingTrack
 A fitness tracker that helps someone to reach their daily fitness goal. 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-My project will essentially act as a fitness tracker. I like the idea of the apple fitness app that tracks certain parts of your day through steps, standing, walking, exercise, etc. So I plan to use the idea of rings to track someones fitness. I will create a program that prompts the user to input their weight, height, age, time, workout intensity, and a goal amount of calories someone wants to burn and the rings will turn a green if the goal was reached, and red if it wasnt, and then it will explain what you missed. 
+My project will essentially act as a fitness tracker. I like the idea of the apple fitness app that tracks certain parts of your day through steps, standing, walking, exercise, etc. So I plan to use the idea of rings to track someones fitness. I will create a program that prompts the user to input their weight, calories eaten,time, workout intensity, and a goal amount of calories someone wants to burn and the progess bar will turn a green if the goal was reached, and red if it wasnt, and then it will explain what you missed. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -24,15 +24,15 @@ N/A
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-A good outcome would be to atleast figure out how to get one ring and have it reflect the goal the user input with a brief explanation of if they reached it or not. 
+A good outcome would be to atleast figure out how to get the progre bar  and have it reflect the goal the user input with a brief explanation of if they reached it or not. 
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-Have multiple rings or circles that will highlight each aspect of the fitness for the day and explain why they failed or not 
+Have multiple progress bars  that will highlight each aspect of the fitness for the day and explain why they failed or not 
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-- rings work
+- progress bar works 
 - colors make sense
 - explanations correlate to the input
 - takes decimals
